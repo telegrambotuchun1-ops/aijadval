@@ -1,0 +1,4 @@
+.env
+*.db
+student_files/
+__pycache__/
